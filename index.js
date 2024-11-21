@@ -7,7 +7,7 @@ const port = process.env.PORT || 5500;
 app.use(express.json({ limit: '50mb' }));
 
 const corsOptions = {
-    origin: 'http://localhost:3000', 
+    origin: 'https://bajaj-frontend-git-main-manan-telrandhe.vercel.app/', 
     methods: 'GET,POST',
     allowedHeaders: 'Content-Type',
 };
