@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# NPM package lock file
+package-lock.json
+
+# Debugging files
+*.debug
+
+# Build output
+dist/
+build/
+
+# Coverage directory (for testing)
+coverage/
+
+# IDE/Editor-specific files
+.vscode/
+.idea/
+
+# Mac OS-specific files
+.DS_Store
